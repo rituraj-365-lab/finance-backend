@@ -1,4 +1,4 @@
-# Finance Backend API (IBM Db2)
+# Finance Backend 
 
 ##  Project Overview
 
