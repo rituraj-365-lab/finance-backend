@@ -152,3 +152,5 @@ This project uses **IBM Db2 cloud database** for storing records.
 ## Conclusion
 
 This project demonstrates backend development, API design, role-based access control, and cloud database integration using IBM Db2.
+
+This project was developed as part of a learning assignment with self-implementation and guidance.
